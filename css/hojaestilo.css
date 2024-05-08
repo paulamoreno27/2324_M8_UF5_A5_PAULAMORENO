@@ -1,0 +1,19 @@
+.encabezado {
+    background-color: palevioletred;
+    margin-top: -0;
+}
+
+#texto1 {
+    text-align: center;
+    color: white;
+}
+
+.fila3 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.tabla1, .tabla2, .tabla3 {
+    width: 100%;
+}
